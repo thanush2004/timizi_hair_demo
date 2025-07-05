@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+gradio_client
+google-generativeai
+Pillow
+gunicorn
